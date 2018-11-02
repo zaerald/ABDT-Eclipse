@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: zd.zero.abdt.ui
+Bundle-SymbolicName: zd.zero.abdt.ui
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: zd.zero.abdt.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
