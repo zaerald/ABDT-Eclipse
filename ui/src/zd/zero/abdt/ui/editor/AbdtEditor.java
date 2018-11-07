@@ -1,4 +1,4 @@
-package zd.zero.abdt.editor;
+package zd.zero.abdt.ui.editor;
 
 import org.eclipse.ui.editors.text.TextEditor;
 
