@@ -1,0 +1,9 @@
+grammar zd.zero.abdt.eclipse.AnyaBasic with org.eclipse.xtext.common.Terminals
+
+generate anyaBasic "http://www.zero.zd/abdt/eclipse/AnyaBasic"
+
+Model:
+    greetings+=Greeting*;
+
+Greeting:
+    'Hello' name=ID '!';
